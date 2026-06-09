@@ -1,0 +1,46 @@
+div{display: flex;
+    flex-direction: row;
+    background: rgba(22, 157, 56, 0.629);
+    border-radius: 6%;
+    box-shadow:rgba(22, 157, 56, 0.629);
+    padding: 2px;
+}
+.inglaterra{
+    
+    ont-family: 'Inter', sans-serif; 
+    font-size: 1.1rem;
+    font-weight: 400;
+    line-height: 1.6;
+    letter-spacing: 0.5px;
+}
+div class=titulo {
+    display: flex;
+    flex-direction: row;
+    background: rgb(42, 171, 235);
+    border-radius: 6%;
+    box-shadow: rgb(42, 171, 235);
+    padding: 2px;
+}
+.inglaterra{
+
+}
+.img{
+    padding: 5 px;
+    width: 15%;
+}
+.argentina{   
+    div{display: flex;
+    flex-direction: row;
+    background: rgb(75, 194, 249);
+    border-radius: 6%;
+    box-shadow: rgba(87, 199, 255, 0.842);
+    padding: 2px;
+        }
+div class=video{
+        display: flex;
+        flex-direction: row;
+        background: rgb(42, 171, 235);
+        border-radius: 6%;
+        box-shadow: rgb(42, 171, 235);
+        padding: 2px;
+}

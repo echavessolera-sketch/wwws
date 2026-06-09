@@ -1,0 +1,42 @@
+div{
+    display: flex;
+    flex-direction: row;
+background: darkgreen;
+border-radius: 3%;
+box-shadow: rgb(86, 127, 2);
+padding: 2px;
+}
+
+h1{
+    text-align: center;
+    color:rgb(34, 209, 209)
+    font-family:cambria, cochin, georgia, times,"times new roman",seril;
+}
+img{
+    padding: 10 px;
+}
+img{ width: 25%;
+}
+.titulo{
+    text-align: center;
+    padding-left: 35%;
+    padding-right: 35%;
+}
+.menu{ background-color: black;
+}
+.menu{
+        text-decoration: none;
+        color: rgb(7, 111, 111);
+        display: block;
+        padding:10px;
+        margin: 5px;
+}
+.menu ul {
+    list-style: none;
+}
+,menu {
+    position: relative;
+}
+.menu ul li a:hover{
+ background-color: rgb(26, 95, 95);
+}
